@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pandas
+scikit-learn
+nltk
+tensorflow
+lime
+python-multipart
+pydantic
+beautifulsoup4
+requests
+jinja2
+python-dotenv

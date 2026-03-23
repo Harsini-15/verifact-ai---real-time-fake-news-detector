@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+dist/
+build/
+.env
+*.log
+
+# Python
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+models/*.pkl
+models/*.h5
+models/*.keras
+data/*.csv
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
